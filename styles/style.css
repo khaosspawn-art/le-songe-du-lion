@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logos img {
+  width: 150px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  align-items: start;
+}
+
+header {
+  background-color: #020101;
+  color: white;
+  padding: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+nav a {
+  color: white;
+}

@@ -1,0 +1,12 @@
+h2, h3, .title {
+    text-align: center;
+}
+
+p {
+    max-width: 60%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,12 @@
+h2, h3, h4, p {
+    text-align: center;
+}
+
+hr {
+    max-width: 50%;
+}
+
+.lien {
+    display: flex;
+    justify-content: center;
+}

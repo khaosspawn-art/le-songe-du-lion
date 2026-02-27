@@ -1,0 +1,22 @@
+h2,
+h3,
+h4 {
+  text-align: center;
+}
+
+hr {
+    max-width: 75%;
+}
+
+.lien, .versets, .comment {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    max-width: 60%;
+}
+
+a {
+    color: black;
+}

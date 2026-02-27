@@ -1,0 +1,17 @@
+h2, h3 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    max-width: 60%;
+}
+
+hr {
+    max-width: 75%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,22 @@
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    max-width: 60%;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+}
+
+.sign {
+    display: flex;
+    justify-content: right;
+}
+
+.container {
+    margin: 50px;
+}

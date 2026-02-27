@@ -1,0 +1,14 @@
+.alimar {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.container {
+  margin: 40px;
+}
+
+h2,
+.italic {
+  text-align: center;
+}

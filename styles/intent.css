@@ -1,0 +1,32 @@
+h2,
+h3 {
+  text-align: center;
+}
+
+h3 {
+  max-width: 75%;
+}
+
+.titre {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+  margin: 40px;
+}
+
+p {
+  text-align: left;
+  max-width: 50%;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+}
+
+.sign {
+  display: flex;
+  justify-content: right;
+}
