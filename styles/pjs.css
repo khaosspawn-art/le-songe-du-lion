@@ -12,3 +12,9 @@ h2,
 .italic {
   text-align: center;
 }
+
+@media (max-width: 768px) {
+  .alimar {
+    flex-wrap: wrap;
+  }
+}

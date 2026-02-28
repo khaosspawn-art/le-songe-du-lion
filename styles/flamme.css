@@ -14,9 +14,16 @@ hr {
 }
 
 p {
+    text-align: justify;
     max-width: 60%;
 }
 
 a {
     color: black;
+}
+
+@media (max-width: 768px) {
+  p {
+    max-width: 90%;
+  }
 }

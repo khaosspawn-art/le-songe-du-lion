@@ -3,7 +3,7 @@ h2 {
 }
 
 p {
-    text-align: left;
+    text-align: justify;
     max-width: 60%;
 }
 
@@ -19,4 +19,10 @@ p {
 
 .container {
     margin: 50px;
+}
+
+@media (max-width: 768px) {
+    p {
+        max-width: 90%;
+    }
 }

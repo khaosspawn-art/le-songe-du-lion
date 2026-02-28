@@ -3,10 +3,17 @@ h2, h3, .title {
 }
 
 p {
+    text-align: justify;
     max-width: 60%;
 }
 
 .center {
     display: flex;
     justify-content: center;
+}
+
+@media (max-width: 768px) {
+  p {
+    max-width: 90%;
+  }
 }

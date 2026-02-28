@@ -8,8 +8,8 @@ h3 {
 }
 
 .titre {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .container {
@@ -17,7 +17,7 @@ h3 {
 }
 
 p {
-  text-align: left;
+  text-align: justify;
   max-width: 50%;
 }
 
@@ -29,4 +29,10 @@ p {
 .sign {
   display: flex;
   justify-content: right;
+}
+
+@media (max-width: 768px) {
+  p {
+    max-width: 90%;
+  }
 }

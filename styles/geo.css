@@ -3,7 +3,7 @@ h2, h3 {
 }
 
 p {
-    text-align: left;
+    text-align: justify;
     max-width: 60%;
 }
 
@@ -14,4 +14,10 @@ hr {
 .center {
     display: flex;
     justify-content: center;
+}
+
+@media (max-width: 768px) {
+  p {
+    max-width: 90%;
+  }
 }

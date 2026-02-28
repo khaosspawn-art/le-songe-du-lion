@@ -9,6 +9,10 @@
     margin: 20px;
 }
 
+p {
+    text-align: justify;
+}
+
 @media (max-width: 768px) {
     .container {
         flex-wrap: wrap;
