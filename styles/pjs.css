@@ -13,12 +13,16 @@ h2,
   text-align: center;
 }
 
+.perso {
+  max-width: 20%;
+}
+
 @media (max-width: 768px) {
   .alimar {
     flex-wrap: wrap;
   }
-}
 
-.perso {
-  max-width: 20%;
+  .perso {
+    max-width: 90%;
+  }
 }
