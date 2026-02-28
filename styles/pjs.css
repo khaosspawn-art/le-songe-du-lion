@@ -18,3 +18,7 @@ h2,
     flex-wrap: wrap;
   }
 }
+
+.perso {
+  max-width: 20%;
+}
