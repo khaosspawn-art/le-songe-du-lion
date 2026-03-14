@@ -39,3 +39,11 @@ nav a {
     flex-wrap: wrap;
   }
 }
+
+.rouge {
+  color: red;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
