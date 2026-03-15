@@ -1,4 +1,7 @@
-h2, h3, h4, p {
+h2,
+h3,
+h4,
+p {
     text-align: center;
 }
 
@@ -9,5 +12,8 @@ hr {
 .lien {
     display: flex;
     justify-content: center;
+}
+
+.lien a {
     color: white;
 }

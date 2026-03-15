@@ -22,5 +22,8 @@ p {
 .lien {
     display: flex;
     justify-content: center;
+}
+
+.lien a {
     color: white;
 }
