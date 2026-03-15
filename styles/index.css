@@ -18,3 +18,8 @@ p {
         flex-wrap: wrap;
     }
 }
+
+.lien {
+    display: flex;
+    justify-content: center;
+}

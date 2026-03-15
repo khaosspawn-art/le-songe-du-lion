@@ -1,15 +1,18 @@
-h2, h3, .title {
-    text-align: center;
+h2,
+h3,
+.title {
+  text-align: center;
 }
 
 p {
-    text-align: justify;
-    max-width: 60%;
+  text-align: justify;
+  max-width: 60%;
 }
 
-.center {
-    display: flex;
-    justify-content: center;
+.center,
+.lien {
+  display: flex;
+  justify-content: center;
 }
 
 @media (max-width: 768px) {
